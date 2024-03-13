@@ -21,6 +21,8 @@ Assignment covers descriptive statistics for various numerical variables, offeri
 
 Technologies Used
 Jupyter Notebook, Python 3.0
+
+
 Acknowledgements
 I extend my heartfelt gratitude to the UpGrad and IIIT faculty for their invaluable modules that played a pivotal role in enabling me to successfully conduct this case study.
 
